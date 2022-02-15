@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TamilRockers/static/css/main.cd74abb5.css",
+    "main.js": "/TamilRockers/static/js/main.583d79d7.js",
+    "index.html": "/TamilRockers/index.html",
+    "main.cd74abb5.css.map": "/TamilRockers/static/css/main.cd74abb5.css.map",
+    "main.583d79d7.js.map": "/TamilRockers/static/js/main.583d79d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd74abb5.css",
+    "static/js/main.583d79d7.js"
+  ]
+}
