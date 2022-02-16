@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TamilRockers/static/css/main.cd74abb5.css",
-    "main.js": "/TamilRockers/static/js/main.583d79d7.js",
+    "main.css": "/TamilRockers/static/css/main.d1ee618c.css",
+    "main.js": "/TamilRockers/static/js/main.df4015a5.js",
     "index.html": "/TamilRockers/index.html",
-    "main.cd74abb5.css.map": "/TamilRockers/static/css/main.cd74abb5.css.map",
-    "main.583d79d7.js.map": "/TamilRockers/static/js/main.583d79d7.js.map"
+    "main.d1ee618c.css.map": "/TamilRockers/static/css/main.d1ee618c.css.map",
+    "main.df4015a5.js.map": "/TamilRockers/static/js/main.df4015a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd74abb5.css",
-    "static/js/main.583d79d7.js"
+    "static/css/main.d1ee618c.css",
+    "static/js/main.df4015a5.js"
   ]
 }
